@@ -18,7 +18,7 @@ Contains the souce files for my submission for Project 1 of the Udacity Robotics
 
 The model is a simple vehicle with a depth camera attached. Lots of interesting possibilities here.
 
-The world is a single level apartment, with multiple rooms separater by walls/doors and windows.
+The world is a single level apartment, with multiple rooms separated by walls/doors and windows. Gazebo online library models include a couple of tables, bookshelves and a cabinet
 
 ### Gazebo World
 ![](imgs/gazebo_world.jpg)
